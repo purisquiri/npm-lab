@@ -1,0 +1,14 @@
+{
+  "name": "new-npm",
+  "version": "1.0.0",
+  "description": "my first npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "mauro",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
